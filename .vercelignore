@@ -1,0 +1,11 @@
+android
+docs
+backend/tests
+backend/.venv
+backend/data
+*.apk
+.vercel-secrets
+deploy.bat
+start.bat
+start.sh
+run-tests.bat
